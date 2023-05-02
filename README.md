@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MVmachines
+- 👀 I’m interested in automation in industry
+- 🌱 I’m currently learning PLC programing and robots programing.
+- 💞️ I’m looking to collaborate on worldwide projects.
+- 📫 You can reach me on www.linkedin.com/company/mvmachines
